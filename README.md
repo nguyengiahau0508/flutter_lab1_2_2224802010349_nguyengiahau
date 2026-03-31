@@ -1,6 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## 🚀 Preview
 
-## 🎥 Demo
+![Demo](assets/demo.gif)
 
-[![Watch the demo](assets/thumbnail.png)](assets/demo.mp4)
+## 🎥 Full Demo
+
+[![Watch Video](assets/thumbnail.png)](assets/demo.mp4)
