@@ -1,7 +1,3 @@
-## 🚀 Preview
+## 🎥 Demo
 
-![Demo](assets/demo.gif)
-
-## 🎥 Full Demo
-
-[![Watch Video](assets/thumbnail.png)](assets/demo.mp4)
+[![Watch the demo](https://img.youtube.com/vi/xXgLlMLezNk/0.jpg)](https://youtu.be/xXgLlMLezNk)
